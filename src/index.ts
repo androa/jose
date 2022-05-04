@@ -95,4 +95,5 @@ export type {
   CompactJWSHeaderParameters,
   JWTHeaderParameters,
   JSONWebKeySet,
+  GetKeyFunction,
 } from './types.d'
